@@ -1,4 +1,12 @@
 ### Hi there, My Name Yuda 👋
+# Andika Dirma Yuda
+
+Saya seorang mahasiswa yang senang belajar tentang teknologi dan pemrograman.
+
+Kontak:
+- Email: andikadirmayuda21@mhs.mdp.ac.id
+
+
 
 <!--
 **yuda2101/yuda2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
