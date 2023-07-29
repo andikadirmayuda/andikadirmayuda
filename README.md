@@ -39,7 +39,7 @@ src="https://img.shields.io/twitter/follow/Ngaatau_?logo=twitter&style=for-the-b
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/adrmyd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://bmc.link/adrmyd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <!--
 **yuda2101/yuda2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
