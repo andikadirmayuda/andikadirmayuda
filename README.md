@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <br/> <br/>Andika Dirma Yuda
 =========================================================================================================================================
-I'am Palembang Multi Data University student
 ---------------------------------------
 
-"Don't follow me because I'm lost too"
 
 * 🌍  I'm based in Palembang City
 * ✉️  You can contact me at [andikadirmayuda21@mhs.mdp.ac.id](mailto:andikadirmayuda21@mhs.mdp.ac.id)
