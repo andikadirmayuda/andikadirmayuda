@@ -8,12 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning looking for the right path
 * 🤝  I'm open to collaborating on Progress
 
-<a href="https://www.twitter.com/Ngaatau_" target="_blank" rel="noreferrer"><img
+<!--<a href="https://www.twitter.com/Ngaatau_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ngaatau_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
-<a href="https://www.instagram.com/adrmyd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/instagram/follow/adrmydlogo=instagram&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+/></a>-->
 ### Skills
 
 
