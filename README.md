@@ -27,12 +27,6 @@ src="https://img.shields.io/twitter/follow/Ngaatau_?logo=twitter&style=for-the-b
 
 <p align="left"> <a href="https://www.github.com/https://github.com/yuda2101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adrmyd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ngaatau_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCyj-b0xxpfRvCd8JMl2x7tQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/https://github.com/yuda2101"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/yuda2101&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="https://github.com/yuda2101's GitHub stats" /></a>
-
 ### Support Me
 
 <a href="https://bmc.link/adrmyd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
