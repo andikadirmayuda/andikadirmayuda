@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 
-
+<br/>
 * 🌍  I'm based in the IDN
 * 🧠  I'm learning looking for the right path
 * 🤝  I'm open to collaborating
