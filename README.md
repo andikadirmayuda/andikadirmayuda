@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-* 🌍  I'm based in the Jungle
+* 🌍  I'm based in the IDN
 * 🧠  I'm learning looking for the right path
-* 🤝  I'm open to collaborating on Progress
+* 🤝  I'm open to collaborating
 <!--* ✉️  You can contact me at [andikadirmayuda21@mhs.mdp.ac.id](mailto:andikadirmayuda21@mhs.mdp.ac.id)-->
 
 <!--<a href="https://www.twitter.com/Ngaatau_" target="_blank" rel="noreferrer"><img
