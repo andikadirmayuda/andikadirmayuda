@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/Ngaatau_?logo=twitter&style=for-the-b
 <a href="https://bmc.link/adrmyd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <!--
 **yuda2101/yuda2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
